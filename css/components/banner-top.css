@@ -1,0 +1,22 @@
+.banner-top {
+	background-color: #2D2B4E;
+	background-position: center;
+	padding: 20px 0px;
+	height: 10px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	}
+
+	.banner-top h1 {
+		font-size: 20px;
+		color: white;
+	}
+	.button-banner-top {
+		height: 10px;
+		margin: 0px;
+		width: 250px;
+		display: flex;
+		align-items: center;
+		justify-content: space-around;
+	}

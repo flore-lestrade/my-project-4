@@ -1,0 +1,43 @@
+/* Importing Google fonts */
+@import url('https://fonts.googleapis.com/css?family=Lobster|Lora:400,700|Roboto:400,700&display=swap');
+
+/* Importing component files */
+@import url("components/banner-cards.css");
+@import url("components/banner-filtered.css");
+@import url("components/banner-top.css");
+@import url("components/btn-white.css");
+@import url("components/cards.css");
+@import url("components/container.css");
+@import url("components/logo.css");
+@import url("components/title.css");
+@import url("components/little-cards.css");
+@import url("components/btn-blue.css");
+
+/* General style rules for fonts and colors */
+body {
+  font-family: 'Lora', serif;
+  font-size: 18px;
+  margin: 0px;
+}
+
+h1 {
+	font-family: 'Lobster', serif
+}
+
+h2, h3 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  font-size: 37px;
+}
+a {
+  text-decoration: none;
+}
+
+.title {
+	margin: 150px 10px 150px 10px;
+}
+.image-China img {
+	height: 400px;
+	width: 400px;
+	border-radius: 4px;
+}
